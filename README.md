@@ -33,7 +33,11 @@ Designed for powering:
 ![PCB](hardware/pcb_top.png)
 
 ---
+## 🖥 PCB-3D Layout
 
+![PCB](hardware/pcb_3d.png)
+
+---
 ## 🧠 Design Notes
 
 * Input/output capacitors placed close to regulator pins
