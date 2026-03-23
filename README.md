@@ -24,7 +24,7 @@ Designed for powering:
 
 ## 🧩 Schematic
 
-![Schematic](hardware/schematic PDF.pdf)
+![Schematic](hardware/schematic.pdf)
 
 ---
 
